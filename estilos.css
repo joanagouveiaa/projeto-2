@@ -1,0 +1,31 @@
+body {
+	 background-color: lightblue;
+}
+ .destaque{ background-color: white;
+         width: 30%
+		 min-height: 20px; 
+		 padding: 20px;
+		 margin: 25px; 
+}
+ .destaque {
+	 display: incline-block;
+	 vertica-align: top;
+ }
+ .destaque img {
+	 with: 100%;
+	 height: auto;
+ }
+	 
+h1{
+	color: darkblue; 
+	 font-family: Verdana; 
+	 font-size: 35px 
+}
+h2{
+	color: darkblue; 
+	font-family: Verdana; 
+}
+ol{
+	color: purple; 
+}
+ 
